@@ -1,7 +1,10 @@
+#bdsect{
+	background-image: url("images/bus.jpg");
+	background-repeat: no-repeat;
+	
+}
 #headImage{
   background-image: url("images/bus.jpg");
-  
-}
-nav{
-
+  height: 50%;
+  width: 100%;
 }
