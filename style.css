@@ -4,7 +4,22 @@
 	
 }
 #headImage{
-  background-image: url("images/bus.jpg");
-  height: 50%;
-  width: 100%;
+  background-image: url("images/world.png");
+  height: 100;
+  width: 200;
+}
+#section1{
+	height: 100;
+ 	width: 200;
+	background-color:;
+}
+#section2{
+	height: 100;
+ 	width: 200;	
+	background-color:;
+}
+#section3{
+	height: 100;
+ 	width: 200;
+	background-color:;
 }
