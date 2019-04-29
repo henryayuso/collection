@@ -1,25 +1,41 @@
 #bdsect{
 	background-image: url("images/bus.jpg");
 	background-repeat: no-repeat;
-	
+	background-size: 50% 100%;
+	height: 200px;
+	background-position: right;
 }
-#headImage{
-  background-image: url("images/world.png");
-  height: 100;
-  width: 200;
+#nav{
+	background-color: rgba(89, 89, 89); 
+	font:bolder;
+	font-size: 30px;
+	text-shadow: 5px;
+	border-radius: 20px;
+  
 }
 #section1{
-	height: 100;
- 	width: 200;
+	  background-image: url("images/globan.jpg");
+	  background-repeat: no-repeat;
+	  background-size: 100% 100%;
+
+	height: 250px;
+ 	width:100%;
 	background-color:rgb(255, 236, 255);
+	background-blend-mode:
+	font-size: 35px;
+	border: none;
+	
 }
 #section2{
-	height: 100;
- 	width: 200;	
+	 background-image: url("images/world.png");
+	 background-repeat: no-repeat;
+	 	 background-size: 100% 100%;
+	height: 250px;
+ 	width:100%;
 	background-color:;
 }
 #section3{
-	height: 100;
- 	width: 200;
+	height: 250px;
+ 	width:100%;
 	background-color:rgb(255, 236, 255);
 }
